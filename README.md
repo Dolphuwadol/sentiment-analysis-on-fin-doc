@@ -1,1 +1,2 @@
-# sentiment-analysis-on-fin-doc
+# Sentiment Analysis on Financial Documents
+Dataset from  https://github.com/nlp-chula/finnlp-sentiment
