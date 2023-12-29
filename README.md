@@ -38,7 +38,7 @@ Sentiment ที่มีต่อเอกสารใน 3 ส่วน ได
 | Financing             | การกู้ยืมเงิน (loan) การทำ syndicated loan การออกหุ้นกู้ (bond) การเพิ่มทุนในตลาดหลักทรัพย์ การซื้อหุ้นกลับคืน (stock repurchase) การให้กู้ยืมระหว่างกันบริษัทที่เกียวข้อง/บริษัทลูก การทำ IPO (initial public offering) การทำ private placement หุ้น การทำ tender offer การเพิ่ม/ลดทุน จาก VC, angel investor                                                                                                                    |
 | Technology            | การเปลี่ยนแปลงด้านเทคโนโลยี สารสนเทศ การใช้ automation การใช้ AI นวัตกรรมต่าง ๆ การเข้าถึง (Access), licensing, patent และ ทรัพย์สินทางปัญญาเทคโนโลยี                                                                                                                                                                                                                                                    |
 | Others                | หัวข้ออื่น ๆ หัวข้อการเปลี่ยนแปลงในด้านอื่น ๆ นอกเหนือจากที่กล่าวข้างต้น อาทิ เช่น การเปลี่ยนแปลงเทคโนโลยี ภัยพิบัติ โรคระบาด                                                                                                                                                                                                                                                                                       |
-
+### Visualization
 ![newplot](https://github.com/Dolphuwadol/sentiment-analysis-on-fin-doc/assets/121854744/7c6a0a19-9385-46a5-b34e-d002c8448060)
 ![newplot (1)](https://github.com/Dolphuwadol/sentiment-analysis-on-fin-doc/assets/121854744/1937612b-3625-4ee6-8233-a437a60433ae)
 
